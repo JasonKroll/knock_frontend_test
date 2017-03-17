@@ -11,12 +11,7 @@
 
 <script>
 export default {
-  name: 'myheader',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
+  name: 'myheader'
 }
 </script>
 
